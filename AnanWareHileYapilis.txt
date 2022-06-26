@@ -1,0 +1,11 @@
+Hileyi kullanmadan önce oku.
+
+1-) Herhangi bir sunucuya gir ve oyna
+
+2-) Oyun 10-15dk sonra donucaktır (sunucudan sunucuya değişiyor)
+
+3-) Oyun donduğunda AnanWareBilgi klasöründeki "DonmayıKaldır.exe" yi çalıştır. Çalıştırdıktan sonra kick yiceksin. (bilgisayar hızına bağlı)
+
+4-) Kick yedikten sonra 1.adımdaki işlemleri tekrar yap (sürekli)
+
+Not: Sunucuya ilk girişinizde oyun hemen donarsa AnanWareBilgi klasöründeki "DonmayıKaldır.exe" yi çalıştır ve oyun kendine geldiğinde sunucudan çık ve tekrar gir.
